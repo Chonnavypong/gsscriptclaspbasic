@@ -1,0 +1,1 @@
+export const customerForm = document.getElementById("customerForm")
